@@ -13,3 +13,6 @@
 パソコン対応
 
 スマホ等のタッチパネルでは動作しません
+
+ゲームのダウンロードは右側にあるreleasesからどうぞ
+https://github.com/Goodkundayo/kousekisaikutuclicccar/releases
