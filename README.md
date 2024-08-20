@@ -19,3 +19,7 @@ https://github.com/Goodkundayo/kousekisaikutuclicccar/releases
 
 Englis version
 https://github.com/Goodkundayo/Ore-Mining-Clicker
+
+最新バージョンver.5.9からは、サイトに変更しました
+https://goodkundayo.github.io/kousekisaikutuclicccar-ver.5.9/
+
